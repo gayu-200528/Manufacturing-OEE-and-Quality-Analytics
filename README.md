@@ -67,9 +67,10 @@ The following measures were created:
 - Production Line-wise Downtime
 - OEE Gauge Chart
 
+![Production](Production.png)
 
 
-### 2. Quality Analysis
+### 2. Mnufacturing quality and Defect Monitoring
 - Total Defects
 - Total Accepted Units
 - Total Inspected Units
@@ -80,6 +81,9 @@ The following measures were created:
 - Quality Status Distribution
 - Machine-wise Accepted Units
 - Quality Inspection Details
+
+![quality](quality.png)
+
 
 ##  Project Outcome
 This project provides insights into manufacturing efficiency, machine performance, production downtime and product quality through interactive Power BI dashboards.
