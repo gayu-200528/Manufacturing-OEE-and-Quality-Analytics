@@ -34,13 +34,13 @@ Data cleaning and transformation were performed using Power Query.
 - Verified column data types.
 - Checked data consistency.
 
-## 🔗 Data Modeling
+##  Data Modeling
 Relationships were created between the three tables:
 
 - Machines → Production (MachineID)
 - Production → Quality (ProductionID)
 
-## 📊 DAX Measures
+##  DAX Measures
 The following measures were created:
 - Total Production
 - Total Downtime
@@ -52,7 +52,7 @@ The following measures were created:
 - OEE %
 - Defect Rate %
 
-## 📈 Dashboard Details
+##  Dashboard and details
 
 ### 1. Production & OEE Analysis
 - Total Production
@@ -66,6 +66,8 @@ The following measures were created:
 - Shift-wise Production
 - Production Line-wise Downtime
 - OEE Gauge Chart
+
+
 
 ### 2. Quality Analysis
 - Total Defects
