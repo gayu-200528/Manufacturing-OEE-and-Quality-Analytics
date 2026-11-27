@@ -1,0 +1,13 @@
+MachineID,MachineName,MachineType,ProductionLine,InstallationDate,MachineStatus,EfficiencyTargetPct
+M001,CNC Machine 01,CNC Milling,Line A,2021-03-15,Active,95
+M002,CNC Machine 02,CNC Milling,Line A,2020-08-20,Active,90
+M003,Lathe Machine 01,Turning,Line A,2019-11-10,Active,88
+M004,Injection Molding 01,Molding,Line B,2022-01-05,Active,92
+M005,Injection Molding 02,Molding,Line B,2020-06-18,Active,90
+M006,Assembly Robot 01,Assembly,Line B,2021-09-12,Active,96
+M007,Assembly Robot 02,Assembly,Line B,2023-02-01,Active,97
+M008,Packaging Machine 01,Packaging,Line C,2018-07-25,Active,85
+M009,Packaging Machine 02,Packaging,Line C,2022-05-30,Active,93
+M010,Welding Machine 01,Welding,Line C,2019-04-14,Maintenance,82
+M011,Press Machine 01,Pressing,Line A,2021-12-03,Active,91
+M012,Coating Machine 01,Coating,Line C,2020-10-22,Active,89
